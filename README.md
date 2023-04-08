@@ -1,6 +1,6 @@
 # Employers-REACT-To-Me!
 
-Welcome to my React built online portfolio. Please feel free to view the deployment and take a look at the projects and code that I have been able to accopmplish up until now.
+Welcome to my React built online portfolio. Please feel free to view the deployment and take a look at the projects and code that I have been able to accomplish up until now.
 
 ## User Story
 
