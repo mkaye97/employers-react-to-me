@@ -1,0 +1,24 @@
+:root {
+    --electric-blue: #78efffff;
+    --xanthous: #f7b538ff;
+    --silver-lake-blue: #6290c8ff;
+    --bittersweet: #f26157ff;
+    --savoy-blue: #4d64ddff;
+}
+
+div h2 {
+    font-size: 400%;
+}
+
+div p {
+    font-size: 150%;
+}
+
+.image-format {
+    height: 500px;
+    padding: 30px;
+}
+
+.section-name-format {
+    text-align: center;
+}

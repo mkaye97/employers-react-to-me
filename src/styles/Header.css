@@ -6,6 +6,8 @@
     --savoy-blue: #4d64ddff;
 }
 
-body {
-    background-color: var(--electric-blue);
+.page-format {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
 }
