@@ -1,0 +1,28 @@
+:root {
+    --electric-blue: #78efffff;
+    --xanthous: #f7b538ff;
+    --silver-lake-blue: #6290c8ff;
+    --bittersweet: #f26157ff;
+    --savoy-blue: #4d64ddff;
+}
+
+.contact-title {
+    font-size: 50px;
+}
+
+.form-container {
+    font-size: 20px;
+    text-align: center;
+    outline: solid black;
+    background-color: var(--savoy-blue);
+    margin: auto 30% auto 30%;
+    padding: 20px;
+}
+
+.contact-background {
+    background-color: var(--savoy-blue);
+}
+
+.form-field {
+    width: 90%;
+}
