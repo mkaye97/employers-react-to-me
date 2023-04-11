@@ -1,7 +1,7 @@
 import React from "react";
 import '../../styles/Portfolio.css';
-import AdoptDS from '../../images/adoption-app.png';
-import Wallot from '../../images/wallot.png';
+import AdoptDS from '../../utils/images/adoption-app.png';
+import Wallot from '../../utils/images/wallot.png';
 
 
 function About() {

@@ -1,6 +1,6 @@
 import React from 'react';
-import LinkedIn from '../images/LinkedIn.png';
-import Github from '../images/Github.png';
+import LinkedIn from '../utils/images/LinkedIn.png';
+import Github from '../utils/images/Github.png';
 import '../styles/Footer.css';
 
 function Footer() {

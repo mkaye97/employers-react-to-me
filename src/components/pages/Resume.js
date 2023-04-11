@@ -1,10 +1,12 @@
 import React from "react";
 import '../../styles/Resume.css';
+import MyResume from '../../utils/files/KayeResume.docx'
+
 
 function Resume() {
     return (
         <div className="resume-container">
-            <a className="resume-download" href="#">
+            <a className="resume-download" href={MyResume} download='MKaye_Resume'>
                 <h2>Download My Resume Here!</h2>
             </a>
             <div className="list-container">
