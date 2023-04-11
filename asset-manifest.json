@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/employers-react-to-me/static/css/main.073c9b0a.css",
-    "main.js": "/employers-react-to-me/static/js/main.f805eee4.js",
+    "main.css": "/employers-react-to-me/static/css/main.62da6207.css",
+    "main.js": "/employers-react-to-me/static/js/main.229c3467.js",
     "static/js/787.42fe4519.chunk.js": "/employers-react-to-me/static/js/787.42fe4519.chunk.js",
-    "static/media/logo.svg": "/employers-react-to-me/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/adoption-app.png": "/employers-react-to-me/static/media/adoption-app.2d7e05e18fc1730d04e9.png",
+    "static/media/wallot.png": "/employers-react-to-me/static/media/wallot.c091725689492c2e4892.png",
+    "static/media/me.png": "/employers-react-to-me/static/media/me.b6e123d550a46c641247.png",
+    "static/media/LinkedIn.png": "/employers-react-to-me/static/media/LinkedIn.c5669459a97a7b08d6e5.png",
     "index.html": "/employers-react-to-me/index.html",
-    "main.073c9b0a.css.map": "/employers-react-to-me/static/css/main.073c9b0a.css.map",
-    "main.f805eee4.js.map": "/employers-react-to-me/static/js/main.f805eee4.js.map",
+    "main.62da6207.css.map": "/employers-react-to-me/static/css/main.62da6207.css.map",
+    "main.229c3467.js.map": "/employers-react-to-me/static/js/main.229c3467.js.map",
     "787.42fe4519.chunk.js.map": "/employers-react-to-me/static/js/787.42fe4519.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f805eee4.js"
+    "static/css/main.62da6207.css",
+    "static/js/main.229c3467.js"
   ]
 }
