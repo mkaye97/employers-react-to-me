@@ -6,6 +6,7 @@
     --savoy-blue: #4d64ddff;
 }
 
-div {
+.bg {
+    height: auto;
     background-color: var(--electric-blue);
 }
