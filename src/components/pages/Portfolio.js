@@ -21,7 +21,7 @@ function About() {
                 </div>
             </div>
             <div className="p-2 col-12 col-lg-6">
-                <div className="card text-center">
+                <div className="text-center">
                     <div className="card-header">
                         WalLot
                     </div>

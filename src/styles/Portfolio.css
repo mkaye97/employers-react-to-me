@@ -6,10 +6,6 @@
     --savoy-blue: #4d64ddff;
 }
 
-.card {
-    background-color: var(--savoy-blue);
-}
-
 .image-container {
     max-height: 100%;
 }

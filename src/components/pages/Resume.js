@@ -30,7 +30,7 @@ function Resume() {
                     <li className="list-item">Express</li>
                     <li className="list-item">MySQL, Sequelize</li>
                     <li className="list-item">MongoDB, Mongoose</li>
-                    <li className="list-item">RESTful API's</li>
+                    <li className="list-item">REST API's</li>
                     <li className="list-item">GraphQL</li>
                 </ul>
                 <h3>Other Notable Skills and Familiar Concepts</h3>

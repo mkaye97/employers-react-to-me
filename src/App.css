@@ -7,6 +7,6 @@
 }
 
 .bg {
-    height: auto;
+    max-height: auto;
     background-color: var(--electric-blue);
 }

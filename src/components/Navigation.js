@@ -7,10 +7,18 @@ function Navigation({ currentPage, handlePageChange }) {
             <h1 className='main-colors nav-text px-5'>Kaye Portfolio</h1>
             <div>
                 <div className="navbar-nav">
-                    <a onClick={() => handlePageChange('About')} className={currentPage ? "px-5 main-colors nav-text nav-link active" : "px-5 main-colors nav-text link-underline-opacity-75-hover"} href="#about">About Me</a>
-                    <a onClick={() => handlePageChange('Portfolio')} className={currentPage ? "px-5 main-colors nav-text nav-link active" : "px-5 main-colors nav-text link-underline-opacity-75-hover"} href="#portfolio">Portfolio</a>
-                    <a onClick={() => handlePageChange('Contact')} className={currentPage ? "px-5 main-colors nav-text nav-link active" : "px-5 main-colors nav-text link-underline-opacity-75-hover"} href="#contact">Contact</a>
-                    <a onClick={() => handlePageChange('Resume')} className={currentPage ? "px-5 main-colors nav-text nav-link active" : "px-5 main-colors nav-text link-underline-opacity-75-hover"} href="#resume">Resume</a>
+                    <li>
+                        <a onClick={() => handlePageChange('About')} className={currentPage === 'About' ? "px-5 main-colors nav-text link-underline-opacity-75-hover active-nav" : "px-5 main-colors nav-text link-underline-opacity-75-hover"} href="#about">About Me</a>
+                    </li>
+                    <li>
+                        <a onClick={() => handlePageChange('Portfolio')} className={currentPage === 'Portfolio' ? "px-5 main-colors nav-text link-underline-opacity-75-hover active-nav" : "px-5 main-colors nav-text link-underline-opacity-75-hover"} href="#portfolio">Portfolio</a>
+                    </li>
+                    <li>
+                        <a onClick={() => handlePageChange('Contact')} className={currentPage === 'Contact' ? "px-5 main-colors nav-text link-underline-opacity-75-hover active-nav" : "px-5 main-colors nav-text link-underline-opacity-75-hover"} href="#contact">Contact</a>
+                    </li>
+                    <li>
+                        <a onClick={() => handlePageChange('Resume')} className={currentPage === 'Resume' ? "px-5 main-colors nav-text link-underline-opacity-75-hover active-nav" : "px-5 main-colors nav-text link-underline-opacity-75-hover"} href="#resume">Resume</a>
+                    </li>
                 </div>
             </div>
         </nav>
