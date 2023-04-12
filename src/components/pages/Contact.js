@@ -45,7 +45,7 @@ function Contact() {
       };
 
     return (
-        <div>
+        <div className='container-height'>
             <div className="form-container">
                 <div className="contact-background">
                     <h2 className="contact-title">Please Contact Me!</h2>

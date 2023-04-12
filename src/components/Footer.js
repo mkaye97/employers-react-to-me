@@ -5,7 +5,7 @@ import '../styles/Footer.css';
 
 function Footer() {
     return (
-        <footer className="footer">
+        <footer className="sticky-bottom">
             <div className='link-container'>
                 <a href='https://www.linkedin.com/in/matt-kaye-043b17127/' target="_blank" rel="noreferrer noopener">
                     <img className='link-image' src={LinkedIn} alt="Matthew Kaye's Github Link" />

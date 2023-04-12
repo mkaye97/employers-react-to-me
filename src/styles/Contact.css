@@ -33,3 +33,7 @@
 .label-space {
     padding-bottom: 10px;
 }
+
+.container-height {
+    min-height: 100vh;
+}
