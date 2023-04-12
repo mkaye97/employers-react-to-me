@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import '../../styles/Contact.css';
 
-import { required, validateEmail } from '../../utils/helpers';
+import { validateEmail } from '../../utils/helpers';
 
 function Contact() {
     const [name, setName] = useState('');
@@ -51,23 +51,17 @@ function Contact() {
                     <h2 className="contact-title">Please Contact Me!</h2>
                     <label for="name" type="text" className="form-label">Name</label>
                     <br />
-
                     <input name="name" value={name} onChange={handleInputChange} type="text" className="form-field-sm"></input>
-
                 </div>
                 <div className="contact-background">
                     <label for="email" type="email" className="form-label">Email Address</label>
                     <br />
-
                     <input name="email" value={email} onChange={handleInputChange} type="email" className="form-field-sm"></input>
-
                 </div>
                 <div className="contact-background">
                     <label for="message" type="text" className="form-label">Message</label>
                     <br />
-
-                    <textarea name="message" value={message} onChange={handleInputChange} type="text" className="form-field-lg"></textarea>
-
+                    <input name="message" value={message} onChange={handleInputChange} type="text" className="form-field-lg"></input>
                 </div>
                 <button type="button" onClick={handleFormSubmit} className="m-3 btn btn-secondary">Submit</button>
                 {errorMessage && (
