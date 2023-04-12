@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/employers-react-to-me/static/css/main.62da6207.css",
-    "main.js": "/employers-react-to-me/static/js/main.229c3467.js",
+    "main.css": "/employers-react-to-me/static/css/main.bf707bfe.css",
+    "main.js": "/employers-react-to-me/static/js/main.f9fe30f9.js",
     "static/js/787.42fe4519.chunk.js": "/employers-react-to-me/static/js/787.42fe4519.chunk.js",
     "static/media/adoption-app.png": "/employers-react-to-me/static/media/adoption-app.2d7e05e18fc1730d04e9.png",
     "static/media/wallot.png": "/employers-react-to-me/static/media/wallot.c091725689492c2e4892.png",
     "static/media/me.png": "/employers-react-to-me/static/media/me.b6e123d550a46c641247.png",
+    "static/media/KayeResume.docx": "/employers-react-to-me/static/media/KayeResume.f0b34e2bc3b4b0e9a50e.docx",
     "static/media/LinkedIn.png": "/employers-react-to-me/static/media/LinkedIn.c5669459a97a7b08d6e5.png",
     "index.html": "/employers-react-to-me/index.html",
-    "main.62da6207.css.map": "/employers-react-to-me/static/css/main.62da6207.css.map",
-    "main.229c3467.js.map": "/employers-react-to-me/static/js/main.229c3467.js.map",
+    "main.bf707bfe.css.map": "/employers-react-to-me/static/css/main.bf707bfe.css.map",
+    "main.f9fe30f9.js.map": "/employers-react-to-me/static/js/main.f9fe30f9.js.map",
     "787.42fe4519.chunk.js.map": "/employers-react-to-me/static/js/787.42fe4519.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.62da6207.css",
-    "static/js/main.229c3467.js"
+    "static/css/main.bf707bfe.css",
+    "static/js/main.f9fe30f9.js"
   ]
 }
