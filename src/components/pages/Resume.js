@@ -36,7 +36,7 @@ function Resume() {
                 <h3>Other Notable Skills and Familiar Concepts</h3>
                 <ul className="list">
                     <li className="list-item">Object Oriented Programing (OOP)</li>
-                    <li className="list-item">Test Driven Development(TDD)</li>
+                    <li className="list-item">Test Driven Development (TDD)</li>
                     <li className="list-item">Environment Variables</li>
                     <li className="list-item">Regular Expressions (RegEx)</li>
                     <li className="list-item">Object Relational Mapping (ORM)</li>

@@ -1,11 +1,3 @@
-:root {
-    --electric-blue: #78efffff;
-    --xanthous: #f7b538ff;
-    --silver-lake-blue: #6290c8ff;
-    --bittersweet: #f26157ff;
-    --savoy-blue: #4d64ddff;
-}
-
 .contact-title {
     font-size: 50px;
 }
@@ -14,15 +6,25 @@
     font-size: 20px;
     text-align: center;
     outline: solid black;
-    background-color: var(--savoy-blue);
-    margin: auto 30% auto 30%;
+    background-color: lightgrey;
+    margin: auto 30%;
     padding: 20px;
+    height: 100%;
 }
 
 .contact-background {
-    background-color: var(--savoy-blue);
+    background-color: lightgrey;
 }
 
-.form-field {
+.form-field-lg {
     width: 90%;
+}
+
+.form-field-sm {
+    width: 50%;
+}
+
+.text-container {
+    outline: black solid;
+    background-color: lightgrey;
 }
