@@ -43,9 +43,6 @@ function Resume() {
                     <li className="list-item">Progressive Web Applications</li>
                 </ul>
             </div>
-            <br />
-            <br />
-            <br />
         </div>
     )
 };

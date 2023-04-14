@@ -4,7 +4,7 @@ import '../styles/Navigation.css';
 function Navigation({ currentPage, handlePageChange }) {
     return (
         <nav className="navbar navbar-expand-lg nav-container">
-            <h1 className='main-colors nav-text px-5'>Kaye Portfolio</h1>
+            <h1 className='main-colors nav-text px-5 nav-title'>Kaye Portfolio</h1>
             <div>
                 <div className="navbar-nav">
                     <li>

@@ -86,9 +86,6 @@ function About() {
                     </div>
                     <div className="card-footer text-body-secondary">A pseudo-random password generator.</div>
                 </div>
-                <br />
-                <br />
-                <br />
             </div>
         </div>
         

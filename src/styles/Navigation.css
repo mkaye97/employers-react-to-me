@@ -24,3 +24,11 @@
     position: fixed;
     top: 0px;
 }
+
+@media screen and (max-width: 465px) {
+    .nav-title {
+        font-size: 40px;
+    }
+}
+
+

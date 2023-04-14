@@ -21,3 +21,23 @@ div p {
 .section-name-format {
     text-align: center;
 }
+
+@media screen and (max-width: 407px) {
+    div h2 {
+        font-size: 300%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .image-format {
+        width: 100%;
+        height: 100%;
+        padding-bottom: 20px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .text-container {
+        font-size: 10px;
+    }
+}
