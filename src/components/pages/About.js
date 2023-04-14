@@ -14,9 +14,6 @@ function About() {
         <p className="body-content-format">In 2015, I graduated from Walter Panas High School, and decided to attend Binghamton University. In my time there, I had considered focusing my studies in a number of areas, from Chemistry to Actuarial Science, having a particular interest in phyical sciences. In taking many classes in different fields, a passion for statistics and data science was sparked. It was then I decided to pursue a major of Economics with a specialization in Financial Analysis. After graduating from Bingahtmon in the winter of 2019, I began working for RXR Realty in New York City as a Tenant Services Coordinator.</p>
         <p className="body-content-format">Over the next few years I debated taking a different path in my career and enhancing my knowledge of technology. After some time I came to my decision, and enrolled in Columbia's Coding Bootcamp for Full Stack developers. Since the day I made this decision I have never looked back, and feel as though I truly have something to contribute to this community.</p>
       </div>
-      <br />
-      <br />
-      <br />
     </div>
   )
 };

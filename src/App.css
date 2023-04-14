@@ -6,7 +6,8 @@
     --savoy-blue: #4d64ddff;
 }
 
-.bg {
+.bg-and-font {
     min-height: 100vh;
     background-color: var(--electric-blue);
+    font-family: 'Righteous', cursive;
 }
