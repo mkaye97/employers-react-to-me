@@ -1,6 +1,5 @@
 .resume-container {
     margin: auto;
-    min-height: 100vh;
 }
 
 .list-container {
@@ -19,8 +18,4 @@
 
 .resume-download {
     text-align: center;
-}
-
-.container-height {
-    min-height: 100vh;
 }
