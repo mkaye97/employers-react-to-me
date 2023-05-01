@@ -42,6 +42,4 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Links
 
-GitHub: https://github.com/mkaye97/employers-react-to-me
-
 Deployed Application: https://med-hub.herokuapp.com/
