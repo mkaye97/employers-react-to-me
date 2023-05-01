@@ -40,6 +40,16 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 ```
 
+## Images
+
+![Screenshot After Use](./readme-images/about.png)
+
+![Screenshot After Use](./readme-images/portfolio.png)
+
+![Screenshot After Use](./readme-images/contact.png)
+
+![Screenshot After Use](./readme-images/resume.png)
+
 ## Links
 
 Deployed Application: https://med-hub.herokuapp.com/
