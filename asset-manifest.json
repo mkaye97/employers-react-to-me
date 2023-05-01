@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/employers-react-to-me/static/css/main.075c53d4.css",
-    "main.js": "/employers-react-to-me/static/js/main.24ad789a.js",
+    "main.css": "/employers-react-to-me/static/css/main.866f8098.css",
+    "main.js": "/employers-react-to-me/static/js/main.6b8b0ead.js",
     "static/js/787.42fe4519.chunk.js": "/employers-react-to-me/static/js/787.42fe4519.chunk.js",
     "static/media/adoption-app.png": "/employers-react-to-me/static/media/adoption-app.2d7e05e18fc1730d04e9.png",
+    "static/media/medhub.png": "/employers-react-to-me/static/media/medhub.d4dbccf23f09a3e2dee7.png",
     "static/media/wallot.png": "/employers-react-to-me/static/media/wallot.c091725689492c2e4892.png",
     "static/media/me.png": "/employers-react-to-me/static/media/me.b6e123d550a46c641247.png",
     "static/media/weatherornot.png": "/employers-react-to-me/static/media/weatherornot.f58cc5832cdbfa653bc1.png",
-    "static/media/KayeResume.docx": "/employers-react-to-me/static/media/KayeResume.f0b34e2bc3b4b0e9a50e.docx",
+    "static/media/KayeResume.docx": "/employers-react-to-me/static/media/KayeResume.85a096e9b70ac6ef55a1.docx",
     "static/media/LinkedIn.png": "/employers-react-to-me/static/media/LinkedIn.c5669459a97a7b08d6e5.png",
     "static/media/passwordgen.png": "/employers-react-to-me/static/media/passwordgen.1957e96a01d1b0fe9fda.png",
+    "static/media/jate.png": "/employers-react-to-me/static/media/jate.036922a63aff28c7995d.png",
     "index.html": "/employers-react-to-me/index.html",
-    "main.075c53d4.css.map": "/employers-react-to-me/static/css/main.075c53d4.css.map",
-    "main.24ad789a.js.map": "/employers-react-to-me/static/js/main.24ad789a.js.map",
+    "main.866f8098.css.map": "/employers-react-to-me/static/css/main.866f8098.css.map",
+    "main.6b8b0ead.js.map": "/employers-react-to-me/static/js/main.6b8b0ead.js.map",
     "787.42fe4519.chunk.js.map": "/employers-react-to-me/static/js/787.42fe4519.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.075c53d4.css",
-    "static/js/main.24ad789a.js"
+    "static/css/main.866f8098.css",
+    "static/js/main.6b8b0ead.js"
   ]
 }
